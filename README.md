@@ -3,7 +3,7 @@
 <h3 align="center">Fullstack Developer.</h3>
 
 <div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=littlecorsican&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="littlecorsican" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=littlecorsican&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="littlecorsican" /></p>
 </div>
 
 Here are some ideas to get you started:
