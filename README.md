@@ -1,6 +1,6 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Chan Yu-Xiang. I am currently a full stack developer at exxonmobil. This is one of my two github accounts where i store codes that i wrote since i started learning coding. I </h1>
-<h3 align="center">Fullstack Developer.</h3>
+<h1 align="center">Hi 👋, I'm Chan Yu-Xiang. </h1>
+<h3 align="center">I am currently a full stack developer at exxonmobil. This is one of my two github accounts where i store codes that i wrote since i started learning coding. </h3>
 
 <div align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=littlecorsican&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="littlecorsican" /></p>
