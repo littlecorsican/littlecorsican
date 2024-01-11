@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm </h1>
 <h3 align="center">Fullstack Developer.</h3>
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsfiz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="itsfiz" /></p>
 
 Here are some ideas to get you started:
 
