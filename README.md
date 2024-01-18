@@ -6,7 +6,7 @@
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=littlecorsican&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="littlecorsican" /></p>
 </div>
 
-<u>Tech stack and language</u>
+<div><u>Tech stack and language</u></div>
 Language:
 Javascript, Typescript, Python, PHP, C, Java
 
