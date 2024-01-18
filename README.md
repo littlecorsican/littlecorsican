@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on N/A
+- 🔭 I’m currently working on currently have no fixed project to work on.
 - 🌱 I’m currently learning AWS, .net 
 - 👯 I’m looking to collaborate on N/A
 - 🤔 I’m looking for help with N/A
