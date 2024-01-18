@@ -6,10 +6,18 @@
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=littlecorsican&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="littlecorsican" /></p>
 </div>
 
-Here are some ideas to get you started:
+<u>Tech stack and language</u>
+Language:
+Javascript, Typescript, Python, PHP, C, Java
+
+Framework/Library:
+React, NextJs, FastAPI, Laravel, Flask, Django, Tailwind
+
+Devops:
+Openshift, Aws, docker, github actions
 
 - 🔭 I’m currently working on currently have no fixed project to work on.
-- 🌱 I’m currently learning AWS, .net 
+- 🌱 I’m currently learning AWS, .Net 
 - 👯 I’m looking to collaborate on N/A
 - 🤔 I’m looking for help with N/A
 - 💬 Ask me about N/A
