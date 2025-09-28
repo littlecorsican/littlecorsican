@@ -15,6 +15,6 @@
 - 👯 I’m looking to collaborate on N/A
 - 🤔 I’m looking for help with N/A
 - 💬 Ask me about N/A
-- 📫 How to reach me: gnomemage1990@gmail.com
+- 📫 How to reach me: gnomemage1990@gmail.com / chanyuxiang6@gmail.com
 - 😄 Pronouns: come on , seriously?
 - ⚡ Fun fact: 
